@@ -39,7 +39,7 @@ A strong, linear, and consistent positive relationship
 
 Sales vs. Radio
 
-(![Sales vs Radio Plot](https://github.com/tayabhavsar/Advertising-Data-Analysis-Using-Multiple-Regression/blob/main/figures/Sales.%20Vs.%20Radio.jpg)
+![Sales vs Radio Plot](https://github.com/tayabhavsar/Advertising-Data-Analysis-Using-Multiple-Regression/blob/main/figures/Sales.%20Vs.%20Radio.jpg)
 
 Still positive, but weaker and more variable than the Sales Vs. TV plot
 
