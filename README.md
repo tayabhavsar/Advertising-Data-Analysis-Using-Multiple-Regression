@@ -31,15 +31,17 @@ The goal is to determine which channels most strongly predict sales and how a co
 
 ## 📈 Exploratory Visualizations
 Sales vs. TV
+![Sales vs TV Plot](figures/Salesvs.TV.jpg)
 A strong, linear, and consistent positive relationship.
 “This scatter plot shows a strong positive relationship… the points cluster closely around the line.”
 
 Sales vs. Radio
+![Sales vs TV Plot](figures/Salesvs.Radio.jpg)
 Still positive, but weaker and more variable.
 “Radio shows a positive but weaker relationship… with noticeably wider scatter.”
 
 Residuals vs. Fitted
-
+![Sales vs TV Plot](figures/Residualvs.Fitted.jpg)
 Residuals are centered around zero with mild heteroscedasticity.
 “The residuals‑versus‑fitted plot shows that residuals are generally centered around zero… slight increase in variability at higher fitted values.”
 
