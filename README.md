@@ -64,8 +64,7 @@ Still positive, but weaker and more variable than the Sales Vs. TV plot
 
 Residuals vs. Fitted
 
-Residuals are centered around zero with mild heteroscedasticity.
-“The residuals‑versus‑fitted plot shows that residuals are generally centered around zero… slight increase in variability at higher fitted values.”
+Residuals are centered around zero with mild heteroscedasticity
 
 
 
