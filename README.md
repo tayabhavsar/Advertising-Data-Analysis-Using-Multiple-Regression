@@ -93,3 +93,11 @@ R² = 0.897, meaning the model explains nearly 90% of sales variation.
 - Radio contributes meaningfully but with more variability
 - Use the model for **scenario planning** and **budget forecasting**
 - Consider A/B testing at higher spending levels to validate diminishing returns
+
+## Skills Demonstrated
+- Multiple linear regression
+- Exploratory data analysis
+- Data visualization in R
+- Model diagnostics
+- Business insight generation
+- Reproducible project structure
