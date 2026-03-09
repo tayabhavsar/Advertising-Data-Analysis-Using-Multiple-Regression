@@ -10,7 +10,6 @@ This project explores how advertising spending across TV, radio, and newspaper i
 - Multiple linear regression
 
 ## 📁 Project Structure
-Code
 ├── README.md
 ├── report/
 │   └── Advertising_Data_Analysis.pdf
