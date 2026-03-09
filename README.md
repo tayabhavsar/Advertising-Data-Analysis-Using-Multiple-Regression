@@ -31,7 +31,7 @@ The goal is to determine which channels most strongly predict sales and how a co
 
 ## 📈 Exploratory Visualizations
 Sales vs. TV
-![Sales vs TV Plot](figures/Salesvs.TV.jpg)
+![Sales vs TV Plot](https://github.com/tayabhavsar/Advertising-Data-Analysis-Using-Multiple-Regression/blob/main/figures/Sales.%20Vs.%20TV.jpg)
 A strong, linear, and consistent positive relationship.
 “This scatter plot shows a strong positive relationship… the points cluster closely around the line.”
 
