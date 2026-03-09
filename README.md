@@ -74,8 +74,10 @@ The regression model:
 sales = 𝛽0 +𝛽1(TV) + 𝛽2(radio) + 𝛽3(newspaper)
 
 Key Findings:
-TV and radio are statistically significant predictors of sales.
-Newspaper is not significant (p = 0.86).
+- TV and radio are statistically significant predictors of sales
+
+- Newspaper is not significant (p = 0.86).
+
 “Newspaper is not significant… indicating that it does not meaningfully contribute once the other variables are included.”
 
 TV coefficient ≈ 0.046
@@ -93,6 +95,20 @@ R² = 0.897, meaning the model explains nearly 90% of sales variation.
 - Radio contributes meaningfully but with more variability
 - Use the model for **scenario planning** and **budget forecasting**
 - Consider A/B testing at higher spending levels to validate diminishing returns
+
+
+## 🌟 Project Highlights
+- Identified high‑ROI advertising channels using multiple linear regression, showing that TV and radio significantly drive sales while newspaper spending provides no measurable return.
+
+- Achieved a strong model fit (R² = 0.897), demonstrating that the regression explains nearly 90% of sales variation across 200 observations.
+
+- Created clear exploratory visualizations (Sales vs. TV, Sales vs. Radio, Residuals vs. Fitted) to validate linearity, detect variability, and support model assumptions.
+
+- Translated statistical results into actionable business insights, recommending budget reallocation toward TV and radio to maximize marketing ROI.
+
+- Evaluated model diagnostics, identifying mild heteroscedasticity and suggesting A/B testing for spending levels outside the typical range.
+
+- Structured the project professionally, with organized folders for code, figures, and reports, plus a reproducible workflow documented in the README.
 
 ## Skills Demonstrated
 - Multiple linear regression
