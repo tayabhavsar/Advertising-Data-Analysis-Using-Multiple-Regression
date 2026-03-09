@@ -39,6 +39,7 @@ Still positive, but weaker and more variable.
 “Radio shows a positive but weaker relationship… with noticeably wider scatter.”
 
 Residuals vs. Fitted
+
 Residuals are centered around zero with mild heteroscedasticity.
 “The residuals‑versus‑fitted plot shows that residuals are generally centered around zero… slight increase in variability at higher fitted values.”
 
