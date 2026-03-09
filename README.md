@@ -37,6 +37,8 @@ Sales vs. TV
 A strong, linear, and consistent positive relationship
 
 
+
+
 Sales vs. Radio
 
 ![Sales vs Radio Plot](https://github.com/tayabhavsar/Advertising-Data-Analysis-Using-Multiple-Regression/blob/main/figures/Sales.%20Vs.%20Radio.jpg)
@@ -44,10 +46,16 @@ Sales vs. Radio
 Still positive, but weaker and more variable than the Sales Vs. TV plot
 
 
+
+
+
 Residuals vs. Fitted
 ![Sales vs TV Plot](
 Residuals are centered around zero with mild heteroscedasticity.
 “The residuals‑versus‑fitted plot shows that residuals are generally centered around zero… slight increase in variability at higher fitted values.”
+
+
+
 
 ## 📊 Multiple Regression Results
 The regression model:
