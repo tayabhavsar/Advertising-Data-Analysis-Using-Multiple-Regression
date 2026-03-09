@@ -35,6 +35,7 @@ The goal is to determine which channels most strongly predict sales and how a co
 
 ![Sales vs TV Plot](https://github.com/tayabhavsar/Advertising-Data-Analysis-Using-Multiple-Regression/blob/main/figures/Sales.%20Vs.%20TV.jpg)
 
+
 Sales vs. TV
 
 A strong, linear, and consistent positive relationship
@@ -47,6 +48,7 @@ A strong, linear, and consistent positive relationship
 ![Sales vs Radio Plot](https://github.com/tayabhavsar/Advertising-Data-Analysis-Using-Multiple-Regression/blob/main/figures/Sales.%20Vs.%20Radio.jpg)
 
 
+
 Sales vs. Radio
 
 Still positive, but weaker and more variable than the Sales Vs. TV plot
@@ -55,8 +57,9 @@ Still positive, but weaker and more variable than the Sales Vs. TV plot
 
 
 
-Residuals vs. Fitted
+
 ![Sales vs TV Plot](https://github.com/tayabhavsar/Advertising-Data-Analysis-Using-Multiple-Regression/blob/main/figures/Residual%20vs.%20Fitted.jpg)
+
 
 
 Residuals vs. Fitted
