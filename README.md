@@ -47,7 +47,7 @@ Residuals are centered around zero with mild heteroscedasticity.
 The regression model:
 sales = 𝛽0 +𝛽1(TV) + 𝛽2(radio) + 𝛽3(newspaper)
 
-## 📊 Key Findings
+Key Findings:
 TV and radio are statistically significant predictors of sales.
 Newspaper is not significant (p = 0.86).
 “Newspaper is not significant… indicating that it does not meaningfully contribute once the other variables are included.”
