@@ -88,8 +88,8 @@ R² = 0.897, meaning the model explains nearly 90% of sales variation.
 
 
 ## 🧠 Business Insights
-- Shift budget **away from newspaper** and toward **TV and radio**.
-- TV provides the most consistent ROI.
-- Radio contributes meaningfully but with more variability.
-- Use the model for **scenario planning** and **budget forecasting**.
-- Consider A/B testing at higher spending levels to validate diminishing returns.
+- Shift budget **away from newspaper** and toward **TV and radio**
+- TV provides the most consistent ROI
+- Radio contributes meaningfully but with more variability
+- Use the model for **scenario planning** and **budget forecasting**
+- Consider A/B testing at higher spending levels to validate diminishing returns
